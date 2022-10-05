@@ -33,6 +33,12 @@
     background-image: url("cafe.jpg");
     min-height: 100%;
   }
+  .gmap{
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin:20px
+  }
      /*
   
   .caption {
