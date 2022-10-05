@@ -34,8 +34,8 @@
     min-height: 100%;
   }
   .gmap{
-    height: 400px;
-    width: 400px;
+   height: 80%;
+   width: 80%;
     float: left;
     margin:20px
   }
